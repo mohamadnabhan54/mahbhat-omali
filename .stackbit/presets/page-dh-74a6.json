@@ -1,0 +1,43 @@
+{
+    "model": "page",
+    "srcType": "sanity",
+    "srcProjectId": "2uehc61f:production",
+    "presets": [
+        {
+            "label": "ض",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "2"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "Home1",
+                "slug": "/",
+                "sections": [
+                    {
+                        "$$type": "heroSection",
+                        "heading": ".",
+                        "body": "![](https://cdn.sanity.io/images/2uehc61f/production/e224359346b2bf0ecb7128daabd5cfc4acaf1b41-728x90.jpg)![](https://cdn.sanity.io/images/2uehc61f/production/c7dabf24e4db13e8c6d788171a43784087a7bcf9-359x626.jpg)![](https://cdn.sanity.io/images/2uehc61f/production/56058ab666b31184635caf315ea081bd854a10c5-220x110.gif)![](https://cdn.sanity.io/images/2uehc61f/production/cf8cedc1d5286da2f6fdddf5320926739944a64b-256x256.jpg)![](https://cdn.sanity.io/images/2uehc61f/production/35bb9a46eac9cf5ac42283f8c1231fad2e83dba1-300x200.gif)\n",
+                        "cta": [],
+                        "theme": "light",
+                        "backgroundImage": {
+                            "$$type": "backgroundImage",
+                            "image": {
+                                "$$ref": "image-56b05de44183195a321a62aef14b75b2249b557f-2160x2160-jpg",
+                                "$$type": "__asset_model"
+                            },
+                            "opacity": 100
+                        },
+                        "width": "full"
+                    }
+                ],
+                "metaTitle": "",
+                "addTitleSuffix": false,
+                "metaDescription": null,
+                "socialImage": null
+            }
+        }
+    ]
+}
